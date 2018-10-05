@@ -1,0 +1,153 @@
+@font-face {
+  font-family: B yekan src: url('fonts/byekan.ttf') format('truetype');
+}
+
+body {
+  background-color: #FEFFFC;
+  font-family: "B Yekan";
+  direction: rtl;
+}
+
+.style-1::-webkit-scrollbar {
+  width: 12px;
+  background-color: #F5F5F5;
+}
+
+.style-1::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+  background-color: #DBDADA;
+}
+
+p {
+  direction: rtl;
+  font-size: 14px;
+  text-align: justify;
+}
+
+nav {
+  margin-top: 3px;
+  direction: rtl;
+}
+
+#main-courses {
+  overflow: auto;
+  height: 75vh;
+  margin-bottom: 15px;
+  box-shadow: 1px 1px 3px -1px #888888;
+  border-radius: 5px;
+}
+
+.hm-cards {
+  margin-bottom: 2px;
+}
+
+.hm-cards-header {
+  background-color:  !important;
+}
+
+h1 {
+  font-size: 25px;
+  text-align: center;
+}
+
+.navbar-custom {
+  background-color: #A4DEF7 !important;
+  border-radius: 5px !important;
+  box-shadow: 2px 2px 5px #aaaaaa;
+}
+
+aside {
+  background-color: #A4DEF7;
+  border-radius: 5px;
+  direction: rtl;
+  margin-left: auto;
+  margin-top: 0px;
+  padding: 5px;
+  box-shadow: 2px 2px 5px #aaaaaa;
+  min-width: 275px !important;
+  max-width: 280px;
+}
+
+.hm-active {
+  background-color: #E6F6FC !important;
+}
+
+.leader-board {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+#main-container {
+  border-radius: 5px;
+  direction: rtl;
+  text-align: right;
+  min-height: 700px;
+  margin-top: 20px;
+}
+
+#leaderboard-tab {
+  margin-top: 5px;
+}
+
+#badges {
+  background-color: #A4DEF7 !important;
+  border-radius: 15px;
+  margin-top: 60px;
+  min-width: 270px;
+}
+
+#quiz {
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+#quiz-btn {
+  direction: rtl;
+}
+
+#quiz-btn {
+  
+}
+
+#box-score {
+  background-color: #A4DEF7 !important;
+  display: inline-block;
+  text-align: left !important;
+}
+
+.hm-box-score {
+  background-color: #A4DEF7 !important;
+}
+
+#main-ProgressBar {
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+#myP {
+  margin-top: 5px;
+  margin-bottom: 1px;
+  display: inline-block;
+  width: 80px;
+}
+
+.center {
+  text-align: right;
+  padding-right: 16px;
+  color: gray;
+}
+
+.hm-progressbar-small {
+  background-color: #BAD4EB;
+}
+
+.hm-pb-small-main {
+  width: 30%;
+}
+
+
+#video-player {
+
+margin-top: 20px;
+}
