@@ -5,7 +5,6 @@
 body {
   font-family: B yekan;
   background-color: #edece9;
-
 }
 
 #header {
@@ -53,8 +52,24 @@ h1 {
   text-align: center;
 }
 
-.custom-bt {
-  width: 100px !important;
+.hm-form {
+  max-width: 190px;
+}
+
+.custom-bt1 {
+  width: 150px !important;
+  border-style: none;
+  font-size: 0.8em;
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+
+.custom-bt2 {
+  width: 150px !important;
+  border-style: none;
+  font-size: 0.8em;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
 
 .navbar-custom {
@@ -65,10 +80,11 @@ h1 {
 #aside {
   display: inline-block;
   align-items: center;
+  padding-top: 15px;
 }
 
 #sing-up-in {
-  margin-left: 5px;
+  margin-left: 0px;
   display: inline-block;
   align-items: stretch;
 }
@@ -79,6 +95,8 @@ h1 {
   margin-bottom: 0px;
 }
 
+.hm-btn {}
+
 nav {
   direction: rtl;
 }
@@ -86,3 +104,11 @@ nav {
 #login-buttom {
   margin-top: 3px;
 }
+
+.hm-check {
+  direction: rtl;
+  padding-top: 0px;
+  padding-right: 20px;
+}
+
+.hm-checkbox {}
