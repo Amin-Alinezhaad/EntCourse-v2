@@ -27,6 +27,7 @@ p {
   text-align: justify;
 }
 
+
 nav {
   margin-top: 3px;
   direction: rtl;
@@ -150,4 +151,13 @@ aside {
 .hm-card2 {
   background-color: #A4DEF7 !important;
   min-width: 270px;
+}
+
+
+.hm-CR {
+  font-size: 12px;
+}
+
+footer {
+  background-color: #6CCDF7 !important;
 }
